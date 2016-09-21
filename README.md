@@ -23,7 +23,7 @@
  * [行号和间隔](https://github.com/YunTranslate/making_games_with_python_and_pygame/blob/master/Chapter1_Installing%20Python%20and%20Pygame/11_Line%20Numbters%20and%20Spaces.md)
  * [换行](https://github.com/YunTranslate/making_games_with_python_and_pygame/blob/master/Chapter1_Installing%20Python%20and%20Pygame/12_Text%20Wrapping%20in%20This%20Book.md)
  * [在线检查代码](https://github.com/YunTranslate/making_games_with_python_and_pygame/blob/master/Chapter1_Installing%20Python%20and%20Pygame/13_Checking%20Your%20Code%20Online.md)
- *[更多资讯](https://github.com/YunTranslate/making_games_with_python_and_pygame/blob/master/Chapter1_Installing%20Python%20and%20Pygame/14_More%20Info%20Links.md)
+ * [更多资讯](https://github.com/YunTranslate/making_games_with_python_and_pygame/blob/master/Chapter1_Installing%20Python%20and%20Pygame/14_More%20Info%20Links.md)
 * 第2章
 * 第3章
 
