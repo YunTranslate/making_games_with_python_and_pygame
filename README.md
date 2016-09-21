@@ -6,13 +6,13 @@
 
 ===
 
-* 第0章 序
+* 第0章 **序**
  * [适合人群](https://github.com/YunTranslate/making_games_with_python_and_pygame/blob/master/Chapter0_1_who%20is%20this%20book%20for/who%20is%20this%20book%20for.md)
  * [关于本书](https://github.com/YunTranslate/making_games_with_python_and_pygame/blob/master/Chapter0_2_About%20this%20book/About%20this%20book.md)
-* 第1章 安装python和pygame
+* 第1章 **安装python和pygame**
  * [开始之前](https://github.com/YunTranslate/making_games_with_python_and_pygame/blob/master/Chapter1_Installing%20Python%20and%20Pygame/01_What%20You%20Should%20Know%20Before%20You%20Begin.md)
  * [下载和安装Python](https://github.com/YunTranslate/making_games_with_python_and_pygame/blob/master/Chapter1_Installing%20Python%20and%20Pygame/02_Downloading%20and%20Installing%20Python.md)
- * [windows安装说明](https://github.com/YunTranslate/making_games_with_python_and_pygame/blob/master/Chapter1_Installing%20Python%20and%20Pygame/03_Windows%20Instructions.md)
+ * [Windows安装说明](https://github.com/YunTranslate/making_games_with_python_and_pygame/blob/master/Chapter1_Installing%20Python%20and%20Pygame/03_Windows%20Instructions.md)
  * [Mac OS X安装说明](https://github.com/YunTranslate/making_games_with_python_and_pygame/blob/master/Chapter1_Installing%20Python%20and%20Pygame/04_Mac%20OS%20X%20Instructions.md)
  * [Ubuntu和Linux安装说明](https://github.com/YunTranslate/making_games_with_python_and_pygame/blob/master/Chapter1_Installing%20Python%20and%20Pygame/05_Ubuntu%20and%20Linux%20Instructions.md)
  * [开始Python](https://github.com/YunTranslate/making_games_with_python_and_pygame/blob/master/Chapter1_Installing%20Python%20and%20Pygame/06_Starting%20Python.md)
